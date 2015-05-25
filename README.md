@@ -9,4 +9,4 @@ no fixed point and prints out each match.
 Installation
 ------------
 
-This script has been tested with Python 2.7 (Anaconda Python Distribution)
+This script has been tested with Python 2.7 (Anaconda Python Distribution - Windows 8.1 64-bit)
